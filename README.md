@@ -20,5 +20,6 @@ You can share posts with images, search for users and follow/unfollow them, see 
   <img align="top" src="/screenshots/Screenshot9.png" width="300" /> 
 </p><p align="middle">
   <img align="top" src="/screenshots/Screenshot10.png" width="300" />
+  <img align="top" src="/screenshots/Screenshot11.png" width="300" />
 </p>
 
