@@ -1,7 +1,10 @@
 # Social-Media-App
-Mobile Social Media App with MongoDB, Express.js, React Native and Node.js
+Social Media App with MongoDB, Express.js, React Native and Node.js  
 
-You can share posts with images, search for users and follow/unfollow them, see posts from who you follow and view profiles of other users by clicking on their usernames.
+
+An iOS/Android app where users can share posts with images, search for users and follow/unfollow them, see posts from who they follow and view profiles of other users by clicking on their usernames.  
+
+
 
 
 
